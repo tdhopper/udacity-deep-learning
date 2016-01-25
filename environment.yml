@@ -1,0 +1,6 @@
+name: udacity-deep-learning
+dependencies:
+- pip
+- python=2
+- anaconda
+- notebook
